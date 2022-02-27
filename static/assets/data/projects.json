@@ -1,0 +1,139 @@
+[
+    {
+        "id":1,
+        "img":"assets/img/dy/project/1/p1.jpg",
+        "name":"ศูนย์ราชการ จ.แพร่ (แห่งที่ 2)",
+        "subImage": [
+           {"name": "assets/img/dy/project/1/d1.jpg"},
+           {"name": "assets/img/dy/project/1/d2.jpg"},
+           {"name": "assets/img/dy/project/1/d3.jpg"},
+           {"name": "assets/img/dy/project/1/d4.jpg"},
+           {"name": "assets/img/dy/project/1/d5.jpg"},
+           {"name": "assets/img/dy/project/1/d7.jpg"},
+           {"name": "assets/img/dy/project/1/d8.jpg"}
+        ],
+        "company":"D.Y.NGANSILP CONSTRUCTION COMPANY LIMITED",
+        "price":"540,000,000.-",
+        "location":"แพร่"
+    },
+    {
+        "id":2,
+        "img":"assets/img/dy/project/2/p2.jpg",
+        "name":"โครงการ บ้านภูริปุรี พัฒนาการ",
+        "subImage": [
+            {"name": "assets/img/dy/project/1/d1.jpg"},
+            {"name": "assets/img/dy/project/1/d2.jpg"},
+            {"name": "assets/img/dy/project/1/d3.jpg"},
+            {"name": "assets/img/dy/project/1/d4.jpg"},
+            {"name": "assets/img/dy/project/1/d5.jpg"},
+            {"name": "assets/img/dy/project/1/d7.jpg"},
+            {"name": "assets/img/dy/project/1/d8.jpg"}
+         ],
+         "company":"D.Y.NGANSILP CONSTRUCTION COMPANY LIMITED",
+         "price":"130,401,250.-",
+         "location":"แพร่"
+    },
+    {
+        "id":3,
+        "img":"assets/img/dy/project/3/p3.jpg",
+        "name":"สน.สุทธิสารพร้อมที่พักและ <br/>อาคารจอดรถ",
+        "subImage": [
+            {"name": "assets/img/dy/project/1/d1.jpg"},
+            {"name": "assets/img/dy/project/1/d2.jpg"},
+            {"name": "assets/img/dy/project/1/d3.jpg"},
+            {"name": "assets/img/dy/project/1/d4.jpg"},
+            {"name": "assets/img/dy/project/1/d5.jpg"},
+            {"name": "assets/img/dy/project/1/d7.jpg"},
+            {"name": "assets/img/dy/project/1/d8.jpg"}
+         ],
+         "company":"D.Y.NGANSILP CONSTRUCTION COMPANY LIMITED",
+         "price":"139,000,000.-",
+         "location":"แพร่"
+    },
+    {
+        "id":4,
+        "img":"assets/img/dy/project/4/p4.jpg",
+        "name":"โรงพยาบาลคริสเตียน <br/> (ศูนย์คริสเตียนสังขละบุรี)",
+        "subImage": [
+            {"name": "assets/img/dy/project/1/d1.jpg"},
+            {"name": "assets/img/dy/project/1/d2.jpg"},
+            {"name": "assets/img/dy/project/1/d3.jpg"},
+            {"name": "assets/img/dy/project/1/d4.jpg"},
+            {"name": "assets/img/dy/project/1/d5.jpg"},
+            {"name": "assets/img/dy/project/1/d7.jpg"},
+            {"name": "assets/img/dy/project/1/d8.jpg"}
+         ],
+         "company":"D.Y.NGANSILP CONSTRUCTION COMPANY LIMITED",
+         "price":"180,000,000.-",
+         "location":"แพร่"
+    },
+    {
+        "id":6,
+        "img":"assets/img/dy/project/6/p6.jpg",
+        "name":"โครงการ Panasiri Residences <br/> Kaset-Nawamin",
+        "subImage": [
+            {"name": "assets/img/dy/project/1/d1.jpg"},
+            {"name": "assets/img/dy/project/1/d2.jpg"},
+            {"name": "assets/img/dy/project/1/d3.jpg"},
+            {"name": "assets/img/dy/project/1/d4.jpg"},
+            {"name": "assets/img/dy/project/1/d5.jpg"},
+            {"name": "assets/img/dy/project/1/d7.jpg"},
+            {"name": "assets/img/dy/project/1/d8.jpg"}
+         ],
+         "company":"D.Y.NGANSILP CONSTRUCTION COMPANY LIMITED",
+         "price":"81,420,000.-",
+         "location":"แพร่"
+    },
+    {
+        "id":7,
+        "img":"assets/img/dy/project/7/p7.jpg",
+        "name":"อาคารที่พักสงฆ์ (5 ชั้น)",
+        "subImage": [
+            {"name": "assets/img/dy/project/1/d1.jpg"},
+            {"name": "assets/img/dy/project/1/d2.jpg"},
+            {"name": "assets/img/dy/project/1/d3.jpg"},
+            {"name": "assets/img/dy/project/1/d4.jpg"},
+            {"name": "assets/img/dy/project/1/d5.jpg"},
+            {"name": "assets/img/dy/project/1/d7.jpg"},
+            {"name": "assets/img/dy/project/1/d8.jpg"}
+         ],
+         "company":"D.Y.NGANSILP CONSTRUCTION COMPANY LIMITED",
+         "price":"20,000,000.-",
+         "location":"แพร่"
+    },
+    {
+        "id":8,
+        "img":"assets/img/dy/project/8/p8.jpg",
+        "name":"ก่อสร้างเรือนรับรองข้าราชบริพาร",
+        "subImage": [
+            {"name": "assets/img/dy/project/1/d1.jpg"},
+            {"name": "assets/img/dy/project/1/d2.jpg"},
+            {"name": "assets/img/dy/project/1/d3.jpg"},
+            {"name": "assets/img/dy/project/1/d4.jpg"},
+            {"name": "assets/img/dy/project/1/d5.jpg"},
+            {"name": "assets/img/dy/project/1/d7.jpg"},
+            {"name": "assets/img/dy/project/1/d8.jpg"}
+         ],
+         "company":"D.Y.NGANSILP CONSTRUCTION COMPANY LIMITED",
+         "price":"42,000,000.-",
+         "location":"แพร่"
+    },
+    {
+        "id":9,
+        "img":"assets/img/dy/project/9/p9.jpeg",
+        "name":"โครงการ ติดตั้งเสาซีออส <br/>พร้อมรากไม้เทียม",
+        "subImage": [],
+         "company":"D.Y.NGANSILP CONSTRUCTION COMPANY LIMITED",
+         "price":"288,699,169.56.-",
+         "location":""
+    },
+    {
+        "id":10,
+        "img":"assets/img/dy/project/10/p10.jpg",
+        "name":"โครงการ บ้านภูริปุรี ลาดพร้าว 41 <br/> (baan puripuri) <br/> พรีเมี่ยมทาวน์",
+        "subImage": [],
+         "company":"D.Y.NGANSILP CONSTRUCTION COMPANY LIMITED",
+         "price":"16,500,000.00.-",
+         "location":""
+    }
+]
